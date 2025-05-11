@@ -29,7 +29,7 @@
     แยก features และ labels
 
 🧠5. สร้างโมเดล Machine Learning (Linear Regression)
-   ```python
+   ```
       from sklearn.linear_model import LinearRegressionmodel = LinearRegression()model.fit(X.values.reshape(-1, 1), y)
    ```
 🔮6. ทำนายและแสดงผลลัพธ์
